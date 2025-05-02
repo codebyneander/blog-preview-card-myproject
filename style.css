@@ -12,3 +12,19 @@ body {
   background: #F4D04E;
 }
 
+.card {
+  width: 384px;
+  height: 522px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background: #FFFFFF;
+  border-radius: 20px;
+  padding: 24px;
+}
+
+.card img {
+  border-radius: 10px;
+}
+
