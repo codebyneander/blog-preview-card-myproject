@@ -37,3 +37,19 @@ Este projeto foi desenvolvido **exclusivamente para fins de prática e treinamen
 
 ---
 
+## 👤 Autor
+
+- Nome: **Renan Guilherme**
+- Frontend Mentor: [@renan-guilherme](https://www.frontendmentor.io/profile/codebyneander)
+- Instagram Dev: [@renanguilherme.dev](https://instagram.com/renanguilherme.dev)
+- LinkedIn: [Renan Guilherme](https://linkedin.com/in/renan-guilherme)
+
+--- 
+
+## 🙏 Agradecimentos
+
+Agradeço ao **Frontend Mentor** pela proposta prática, e também à mim mesmo pela consistência nessa fase de evolução como dev.
+
+---
+
+> Projeto desenvolvido como parte do meu processo de crescimento no mundo do desenvolvimento web. Um pequeno passo no código, um salto na jornada. 🚀
