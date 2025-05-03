@@ -25,6 +25,7 @@ Neste projeto, priorizei a **semântica do HTML**, estruturando o conteúdo com 
 ## 🌐 Link do Desafio
 
 [Frontend Mentor – Blog Preview Card](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/68138f8a5526abd7449fe32f/challenge/start)
+
 ---
 ## 🚀 Deploy do Projeto
 
